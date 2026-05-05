@@ -1,2 +1,8 @@
 .vs
 .env
+.vs/
+bin/
+obj/
+Debug/
+*.user
+*.suo

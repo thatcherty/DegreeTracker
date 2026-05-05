@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DegreeTracker_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbb4da0e6cbf9e99c3d9baa5fd84d5905c149d25")]
 [assembly: System.Reflection.AssemblyProductAttribute("DegreeTracker_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DegreeTracker_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
